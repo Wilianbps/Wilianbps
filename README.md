@@ -1,7 +1,7 @@
 ### Olá, eu sou o Wilian!!! 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando NEXT
+- 🔭 Hoje trabalho como FullStack Web Developer
+- 🌱 Estudando NEXT e NODE
 
 <div align="left">
   <a href="https://github.com/Wilianbps">
