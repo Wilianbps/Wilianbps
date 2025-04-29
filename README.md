@@ -41,7 +41,7 @@ Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com 
  
  
   
-  ![Snake animation](https://github.com/Wilianbps/Wilianbps/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
  
 </div>
 
