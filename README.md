@@ -4,6 +4,13 @@
 
 Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de experiência em TI — sendo mais de 10 anos como colaborador interno no Banco Bradesco. Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com equipes e empresas para entregar soluções de qualidade.
 
+- 💻 Desenvolvedor Fullstack
+- 🌱 Atualmente aprendendo Nest / Next / Arquitetura de software
+- 🚀 Projetos em andamento: Projeto Fullstack de Escalas e Metas na Natura
+- 📫 Contato: https://www.linkedin.com/in/wilian-brito-b501521b4/
+
+  <hr>
+
 <div align="left">
   <a href="https://github.com/Wilianbps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilianbps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
