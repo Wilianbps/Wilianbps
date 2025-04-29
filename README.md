@@ -2,9 +2,7 @@
 
 **`Fullstack Developer`**
 
-Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de experiência em TI — sendo mais de 10 anos como colaborador interno no Banco Bradesco.
-
-Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com equipes e empresas para entregar soluções de qualidade.
+Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de experiência em TI — sendo mais de 10 anos como colaborador interno no Banco Bradesco. Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com equipes e empresas para entregar soluções de qualidade.
 
 <div align="left">
   <a href="https://github.com/Wilianbps">
