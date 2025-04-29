@@ -7,7 +7,6 @@ Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de exper
 - 💻 Desenvolvedor Fullstack
 - 🌱 Atualmente aprendendo Nest / Next / Arquitetura de software
 - 🚀 Projetos em andamento: Projeto Fullstack de Escalas e Metas na Natura
-- 📫 Contato: https://www.linkedin.com/in/wilian-brito-b501521b4/
 
   <hr>
 
