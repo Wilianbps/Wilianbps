@@ -22,7 +22,6 @@ Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com 
   <img align="center" alt="Wil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height="60" width="60"/>
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" width="80"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="30"/>
@@ -43,7 +42,7 @@ Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com 
  <div align=center>
    
 <img src="https://raw.githubusercontent.com/Wilianbps/Wilianbps/output/snake.svg" alt="Snake animation" />
-   
+
  </div> 
 
  
