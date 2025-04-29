@@ -2,6 +2,8 @@
 
 **`Fullstack Developer`**
 
+## Hey there! 👋
+
 My name is Wilian, I'm 36 years old and a software developer with over 15 years of experience in IT — including more than 10 years as an in-house developer at Banco Bradesco. I work as a fullstack developer, focusing on React and Node.js, collaborating with teams and companies to deliver high-quality solutions.
 
 - 💻 Fullstack Developer
@@ -25,7 +27,7 @@ My name is Wilian, I'm 36 years old and a software developer with over 15 years 
 <img align="center" alt="Wil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Wil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height="60" width="60"/>
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="30"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="50" width="50"/> 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>
