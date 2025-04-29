@@ -2,11 +2,11 @@
 
 **`Fullstack Developer`**
 
-Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de experiência em TI — sendo mais de 10 anos como colaborador interno no Banco Bradesco. Atuo como desenvolvedor fullstack, com foco em React e Node.js, colaborando com equipes e empresas para entregar soluções de qualidade.
+My name is Wilian, I'm 36 years old and a software developer with over 15 years of experience in IT — including more than 10 years as an in-house developer at Banco Bradesco. I work as a fullstack developer, focusing on React and Node.js, collaborating with teams and companies to deliver high-quality solutions.
 
-- 💻 Desenvolvedor Fullstack
-- 🌱 Atualmente estudando Nest / Next / Arquitetura de software
-- 🚀 Projetos em andamento: Projeto Fullstack de Escalas e Metas na Natura
+💻 Fullstack Developer
+🌱 Currently learning Nest, Next, and Software Architecture
+🚀 Ongoing projects: Fullstack Scheduling and Goals System for Natura
 
   <hr>
 
@@ -16,7 +16,7 @@ Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de exper
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilianbps&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
-   <h3> Linguagens e Tecnologias </h3>
+   <h3> 🔧 Languages & Technologies: </h3>
   
 <div style="display: inline_block">
 <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +36,7 @@ Me chamo Wilian, 36 anos, desenvolvedor de software com mais de 15 anos de exper
                   
   <hr>
 <div> 
-  <h3> Contatos </h3>
+  <h3> 📫 Contact </h3>
    <a href="https://www.linkedin.com/in/wilian-brito-b501521b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5511930156542" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wilianbps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
