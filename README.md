@@ -4,9 +4,9 @@
 
 My name is Wilian, I'm 36 years old and a software developer with over 15 years of experience in IT — including more than 10 years as an in-house developer at Banco Bradesco. I work as a fullstack developer, focusing on React and Node.js, collaborating with teams and companies to deliver high-quality solutions.
 
-💻 Fullstack Developer
-🌱 Currently learning Nest, Next, and Software Architecture
-🚀 Ongoing projects: Fullstack Scheduling and Goals System for Natura
+- 💻 Fullstack Developer
+- 🌱 Currently learning Nest, Next, and Software Architecture
+- 🚀 Ongoing projects: Fullstack Scheduling and Goals System for Natura
 
   <hr>
 
